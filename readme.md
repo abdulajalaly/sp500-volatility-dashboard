@@ -1,6 +1,6 @@
 # 📈 S&P 500 Tech Volatility Dashboard
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://[YOUR-APP-LINK-HERE])
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sp500volatility.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -12,7 +12,7 @@ Bridging financial theory with technical implementation, this tool processes liv
 
 ## 🚀 Live Demo
 
-**[Click here to view the live dashboard](https://[YOUR-APP-LINK-HERE])**
+**[Click here to view the live dashboard](https://sp500volatility.streamlit.app/)**
 
 ## 📊 Key Features
 
@@ -34,15 +34,15 @@ Bridging financial theory with technical implementation, this tool processes liv
 
 ### 1. Volatility & Price Trends
 
-![Price and Volatility Analysis](path/to/screenshot1.png)
+![Price and Volatility Analysis](assets/newplot1.png)
 
 ### 2. Sector Correlation Matrix
 
-![Correlation Heatmap](path/to/screenshot2.png)
+![Correlation Heatmap](assets/newplot.png)
 
 ## 💻 Installation & Usage
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/](https://github.com/)[YOUR-USERNAME]/sp500-volatility-dashboard.git
+   git clone [https://github.com/](https://github.com/)[abdulajalaly]/sp500-volatility-dashboard.git
    ```
